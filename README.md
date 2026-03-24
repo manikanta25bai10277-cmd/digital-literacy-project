@@ -21,7 +21,7 @@ Set up professional profiles on GitHub, LinkedIn, and other platforms.
 ### Task 3 – Platforms
 Completed a coding challenge and created a Google Form quiz.
 
-👉 Google Form Link: (PASTE YOUR LINK HERE)
+👉 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLScZ2oeqpobzmftSHzge0BFb-PJNFT3BbJkvaKl2mtWlz4yqfg/viewform?usp=dialog
 
 ### Task 4 – Email Etiquette
 Drafted professional emails and created a social media checklist.
