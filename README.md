@@ -1,6 +1,6 @@
 # Digital Literacy Project
 
-## Name: Manikanta Madhav Kodikal  
+## Name: Manikanta Madhav K
 ## Course: CSE0001 – Digital Literacy  
 
 ---
