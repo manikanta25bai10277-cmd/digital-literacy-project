@@ -1,0 +1,8 @@
+- Do not click unknown links
+- Verify sender email addresses
+- Use strong passwords
+- Enable two-factor authentication
+- Avoid public Wi-Fi for transactions
+- Never share OTPs
+- Check website URLs carefully
+- Report fraud to cybercrime.gov.in or call 1930

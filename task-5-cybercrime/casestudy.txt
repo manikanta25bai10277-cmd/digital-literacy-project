@@ -1,0 +1,7 @@
+Phishing is a type of cybercrime where attackers trick individuals into revealing sensitive information such as passwords or bank details. This usually happens through fake emails or messages that appear to be from trusted sources.
+
+For example, a student may receive an email claiming to be from a bank asking to update account details. The link leads to a fake website that collects user information.
+
+Students are often targeted because they may not recognize such scams. The consequences include financial loss and identity theft.
+
+This highlights the importance of awareness and careful verification of online communications.
