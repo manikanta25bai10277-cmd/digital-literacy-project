@@ -1,7 +1,7 @@
 # Digital Literacy Project
 
 ## Name: Manikanta Madhav K
-## Course: CSE0001 – Digital Literacy  
+## Course: CSE0001 – Digital Literacy    REG NO : 25BAI10277
 
 ---
 
