@@ -1,8 +1,32 @@
-- Do not click unknown links
-- Verify sender email addresses
-- Use strong passwords
-- Enable two-factor authentication
-- Avoid public Wi-Fi for transactions
-- Never share OTPs
-- Check website URLs carefully
-- Report fraud to cybercrime.gov.in or call 1930
+# How to protect yourself against cybercrime
+
+Given its prevalence, you may be wondering how to stop cybercrime? Here are some sensible tips to protect your computer and your personal data from cybercrime:
+
+1. Keep software and operating system updated
+Keeping your software and operating system up to date ensures that you benefit from the latest
+
+security patches to protect your computer.
+
+2. Use anti-virus software and keep it updated
+Using anti-virus or a comprehensive internet security solution like Kaspersky Premium is a smart way to protect your system from attacks. Anti-virus software allows you to scan, detect and remove threats before they become a problem. Having this protection in place helps to protect your computer and your data from cybercrime, giving you piece of mind. Keep your antivirus updated to receive the best level of protection.
+
+3. Use strong passwords
+Be sure to use strong passwords that people will not guess and do not record them anywhere. Or use a reputable password manager to generate strong passwords randomly to make this easier.
+
+4. Never open attachments in spam emails
+A classic way that computers get infected by malware attacks and other forms of cybercrime is via email attachments in spam emails. Never open an attachment from a sender you do not know.
+
+5. Do not click on links in spam emails or untrusted websites
+Another way people become victims of cybercrime is by clicking on links in spam emails or other messages, or unfamiliar websites. Avoid doing this to stay safe online.
+
+6. Do not give out personal information unless secure
+Never give out personal data over the phone or via email unless you are completely sure the line or email is secure. Make certain that you are speaking to the person you think you are. 
+
+7. Contact companies directly about suspicious requests
+If you are asked for personal information or data from a company who has called you, hang up. Call them back using the number on their official website to ensure you are speaking to them and not a cybercriminal. Ideally, use a different phone because cybercriminals can hold the line open. When you think you’ve re-dialed, they can pretend to be from the bank or other organization that you think you are speaking to.
+
+8. Be mindful of which website URLs you visit
+Keep an eye on the URLs you are clicking on. Do they look legitimate? Avoid clicking on links with unfamiliar or URLs that look like spam. If your internet security product includes functionality to secure online transactions, ensure it is enabled before carrying out financial transactions online.
+
+9. Keep an eye on your bank statements
+Spotting that you have become a victim of cybercrime quickly is important. Keep an eye on your bank statements and query any unfamiliar transactions with the bank. The bank can investigate whether they are fraudulent.
